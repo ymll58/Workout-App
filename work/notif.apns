@@ -1,0 +1,8 @@
+{
+    "Simulator Target Bundle": "com.SwiftIAPTeam.work",
+    "aps": {
+        "alert": "Time to Workout",
+        "sound": "default",
+        "badge": 1
+    }
+}
